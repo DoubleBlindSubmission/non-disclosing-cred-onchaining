@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__
+venv
+zok.out
+witness-parameters.txt
+witness
+verification.key
+proving.key
+out
+abi.json
+proof.json
+build/
